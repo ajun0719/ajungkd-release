@@ -63,7 +63,7 @@
 
 ### 方式一：直接安装 APK
 
-1. 从 [Releases](https://github.com/ajun0719/ajungkd/releases) 下载最新的 APK 文件。
+1. 从 [Releases](https://github.com/ajun0719/ajungkd-release/releases) 下载最新的 APK 文件。
 2. 在手机上安装（需要允许安装未知来源应用）。
 3. 打开应用，授予存储权限。
 
