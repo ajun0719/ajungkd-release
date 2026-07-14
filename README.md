@@ -30,6 +30,9 @@
 <img width="1910" height="810" alt="image" src="https://github.com/user-attachments/assets/504e42e0-26e6-41a7-bb32-ec966419dec8" />
 
 
+
+##简易使用教程（详细版请前往微信公众号：52瞎折腾）：
+
 1、可以直接在GKD快照页面选择快照，点击“分享到其他应用”，选择“ajungkd”，软件就会自动解析快照
 
 <img width="869" height="926" alt="image" src="https://github.com/user-attachments/assets/c48eb543-d268-4194-9de5-ac898345d32c" />
