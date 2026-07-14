@@ -67,14 +67,14 @@
 2. 在手机上安装（需要允许安装未知来源应用）。
 3. 打开应用，授予存储权限。
 
-### 方式二：从源码构建
+### 方式二：从源码构建(暂不提供源码)
 
 ```bash
 # 克隆项目
-git clone https://github.com/ajun0719/AJun-GKD-Helper.git
+git clone https://github.com/ajun0719/xxxxxx.git
 
 # 进入项目目录
-cd AJun-GKD-Helper
+cd ajungkd-release
 
 # 使用 Gradle 构建 debug 版本
 ./gradlew assembleDebug
